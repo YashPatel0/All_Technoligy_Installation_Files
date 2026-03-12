@@ -1,7 +1,5 @@
 Here is a **clean and professional README.md** for installing **SonarQube** on Linux using **PostgreSQL** and **OpenJDK**.
 
-You can copy this directly into your repository.
-
 ---
 
 # SonarQube Installation Guide
@@ -204,7 +202,4 @@ Developer Code
        ▼
    PostgreSQL Database
 ```
-
 ---
-
-If you want, I can also help you create a **more professional DevOps README (with architecture diagram + badges + screenshots)** so your **GitHub project looks production-level for recruiters.** 🚀
